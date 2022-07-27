@@ -1,5 +1,6 @@
 {
-  "private": true,
+  "homepage": "https://martinakrtzschmr.github.io/nextjs-github-pages",
+  "private": false,
   "scripts": {
     "dev": "next",
     "build": "next build && next export",
